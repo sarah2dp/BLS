@@ -1,8 +1,8 @@
 ## ORS Cycle 721 Analysis | pagan.sarah@bls.gov
 
-{% include map-2.html %}
+{% include map721.html %}
 
-{% include naics-2.html %}
+{% include naics721.html %}
 
 {% include reason.html %}
 
